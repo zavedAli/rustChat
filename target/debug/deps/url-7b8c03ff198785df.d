@@ -1,0 +1,13 @@
+D:\learnRust\chat-application\chat-app\target\debug\deps\liburl-7b8c03ff198785df.rmeta: C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs
+
+D:\learnRust\chat-application\chat-app\target\debug\deps\liburl-7b8c03ff198785df.rlib: C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs
+
+D:\learnRust\chat-application\chat-app\target\debug\deps\url-7b8c03ff198785df.d: C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs
+
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\lib.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\host.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\origin.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\parser.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\path_segments.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\slicing.rs:
+C:\Users\MY\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.2\src\quirks.rs:
